@@ -1,3 +1,4 @@
 # Embedded-Programming
-For school "/n"
+For school
+
 print("hello world")
